@@ -1,1 +1,1 @@
-# Python_Projects_Practice
+# Python_Projects
